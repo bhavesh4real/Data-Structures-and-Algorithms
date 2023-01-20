@@ -1,4 +1,4 @@
-#Check wether the user-input is palindrome.
+#Check whether the user-input is palindrome.
 
 user_input = input()
 all_small = user_input.lower()
