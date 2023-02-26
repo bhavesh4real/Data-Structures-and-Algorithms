@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Current Empty! Adding NEW files soon..
+Currently Empty! Adding NEW files soon..
